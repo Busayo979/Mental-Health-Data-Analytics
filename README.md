@@ -49,11 +49,11 @@ Screenshots:
     *   [Database Schema Setup](./raw_data_create_table.sql)
     *   [Data Cleaning & Transformation](./stg_data_transformation.sql)
     *   [Reporting Layer Views](./Reporting_view.sql)
-*   **Data Visualization Report:** [Detailed DQ Results](./docs/dq_results.md)
+*   **Data Visualization Report:** [Detailed DQ Results](./Insights/mental_health_reporting_visualizations.PNG)
 
 ## 📊 Visual Insights
 ### Performance Correlation
-![Wellness vs Productivity](./Insights/wellness vs. productivity.PNG)
+![Wellness vs Productivity](./Insights/mental_health_reporting_visualizations.PNG)
 *Figure 1: Highlighting the inverse correlation between depression scores and output.*
 
 - **VII. Findings and Recommendations**
