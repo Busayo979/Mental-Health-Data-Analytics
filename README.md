@@ -44,7 +44,7 @@ Screenshots:
 
 
 ## 📂 Project Resources
-*   **Data Dictionary:** [View Metadata & Classifications](./docs/data_dictionary.md)
+*   **Data Dictionary:** [View Metadata & Classifications](./docs/data_dictionary.xlsx)
 *   **SQL Scripts:** 
     *   [Database Schema Setup](./raw_data_create_table.sql)
     *   [Data Cleaning & Transformation](./stg_data_transformation.sql)
