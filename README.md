@@ -47,7 +47,7 @@ Screenshots:
 *   **Data Dictionary:** [View Metadata & Classifications](./docs/data_dictionary.md)
 *   **SQL Scripts:** 
     *   [Database Schema Setup](./raw_data_create_table.sql)
-    *   [Data Cleaning & Transformation](./sql/stg_transformation.sql)
+    *   [Data Cleaning & Transformation](./stg_data_transformation.sql)
     *   [Reporting Layer Views](./sql/rpt_views.sql)
 *   **Data Quality Report:** [Detailed DQ Results](./docs/dq_results.md)
 
