@@ -48,7 +48,7 @@ Screenshots:
 *   **SQL Scripts:** 
     *   [Database Schema Setup](./raw_data_create_table.sql)
     *   [Data Cleaning & Transformation](./stg_data_transformation.sql)
-    *   [Reporting Layer Views](./raw_data_create_table.sql)
+    *   [Reporting Layer Views](./Reporting_view.sql)
 *   **Data Quality Report:** [Detailed DQ Results](./docs/dq_results.md)
 
 ## 📊 Visual Insights
