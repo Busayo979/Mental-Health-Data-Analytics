@@ -46,7 +46,7 @@ Screenshots:
 ## 📂 Project Resources
 *   **Data Dictionary:** [View Metadata & Classifications](./docs/data_dictionary.md)
 *   **SQL Scripts:** 
-    *   [Database Schema Setup](./sql/ddl_setup.sql)
+    *   [Database Schema Setup](./raw_data_create_table.sql)
     *   [Data Cleaning & Transformation](./sql/stg_transformation.sql)
     *   [Reporting Layer Views](./sql/rpt_views.sql)
 *   **Data Quality Report:** [Detailed DQ Results](./docs/dq_results.md)
