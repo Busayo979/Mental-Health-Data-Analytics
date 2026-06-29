@@ -53,7 +53,7 @@ Screenshots:
 
 ## 📊 Visual Insights
 ### Performance Correlation
-![Wellness vs Productivity](./Insights/Insights/wellness_vs_productivity.PNG)
+![Wellness vs Productivity](./Insights/wellness_vs_productivity.PNG)
 *Figure 1: Highlighting the inverse correlation between depression scores and output.*
 
 - **VII. Findings and Recommendations**
